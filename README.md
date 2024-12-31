@@ -17,5 +17,5 @@ How to use:
 
 3. Activate the script and rejoice.
 
-copy ⬇️
+copy: 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/natsunesh/autofarm/refs/heads/main/script.Lua")) ()
